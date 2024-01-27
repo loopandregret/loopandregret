@@ -3,7 +3,7 @@ Software engineering student 🚀 with Sand Technology, formerly ALX.
 
 ## Languages 🔧
 [![Python](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg)](https://github.com/gitloper-azara/alx-higher_level_programming.git)
-<a href="[https://www.python.org/](https://github.com/gitloper-azara/alx-higher_level_programming.git)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></a>
+<a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></a>
 [![Bash](https://img.shields.io/badge/Linux-%2320232A.svg?&style=for-the-badge&logo=Linux&logoColor=coloured)](https://github.com/gitloper-azara/alx-system_engineering-devops.git)
 [![C](https://img.shields.io/badge/C-%23F7DF1E.svg?&style=for-the-badge&logo=C&logoColor=%2361DAFB)](https://github.com/gitloper-azara/alx-low_level_programming.git)
 [![Bash](https://camo.githubusercontent.com/912fb88855a4d97e58e68eebd4d80bdecd0cfd1bd05ad6fd7e5d53228bee154f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d62617368)](https://github.com/gitloper-azara/alx-system_engineering-devops.git)
