@@ -22,4 +22,4 @@ Software engineering student 🚀 with [Sand Technology](https://www.alxafrica.c
 LinkedIn: [Yushahu Yussif](https://www.linkedin.com/in/yushahuyussifazara/)
 Facebook: [Yushahu Yussif Azara](https://www.facebook.com/yushahuazara?mibextid=ZbWKwL)
 
-- ⚡ Fun fact: I love hitting the keyboard.
+- ⚡ Fun fact: I love hitting the keyboard 🧑🏾‍💻.
