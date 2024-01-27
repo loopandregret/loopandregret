@@ -1,7 +1,7 @@
 ```
 Hello! I am azara 👋.
 ```
-Software engineering student 🚀 with Sand Technology, formerly ALX.
+Software engineering student 🚀 with [Sand Technology](https://www.alxafrica.com/), formerly ALX.
 
 ## Languages 🔧
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></a>
