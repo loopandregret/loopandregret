@@ -5,8 +5,8 @@ I am a ```software engineering student``` 🚀 with [ALX Software Engineering - 
 
 ## Languages 🔧
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>
-<a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"></a>
-<a href="https://github.com/gitloper-azara/alx-low_level_programming.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"></a>
+<a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
+<a href="https://github.com/gitloper-azara/alx-low_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"></a>
 <a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="50" height="50"></a>
 <a href="https://github.com/gitloper-azara/AirBnB_clone/tree/main/web_static" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"></a>
 <a href="https://github.com/gitloper-azara/AirBnB_clone/tree/main/web_static%2Fstyles" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"></a>
