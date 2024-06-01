@@ -4,7 +4,7 @@ Hello! I am azara 👋.
 I am a ```software engineering student``` 🚀 with [ALX Software Engineering - Holberton School](https://www.alxafrica.com/).
 
 ## Languages 🔧
-<a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"></a>
+<a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>
 <a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"></a>
 <a href="https://github.com/gitloper-azara/alx-low_level_programming.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"></a>
 <a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="50" height="50"></a>
