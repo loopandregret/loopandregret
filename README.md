@@ -7,7 +7,7 @@ I am a ```software engineering student``` 🚀 with [ALX Software Engineering - 
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
 <a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
 <a href="https://github.com/gitloper-azara/alx-low_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"></a>
-<a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://skillicons.dev/icons?i=pearl" alt="Perl"></a>
+<a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://skillicons.dev/icons?i=perl" alt="Perl"></a>
 <a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
 <a href="https://github.com/gitloper-azara/alx-system_engineering-devops/tree/master/0x06-regular_expressions" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby"></a>
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming/tree/3a0feefb6c3f3e5b793d3c65a76606d5f2adedce/0x15-javascript-web_jquery" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
