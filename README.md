@@ -28,12 +28,12 @@ I am a ```software engineering student``` 🚀 with [ALX Software Engineering - 
 ### Database Management System
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
 
-## Github Stats 📈
+### Github Stats 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitloper-azara&layout=compact&theme=light&langs_count=12)](https://github.com/gitloper-azara/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitloper-azara&show_icons=true&theme=light)](https://github.com/gitloper-azara)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gitloper-azara&theme=default)](https://git.io/streak-stats)
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 LinkedIn: [Yushahu Yussif](https://www.linkedin.com/in/yushahuyussifazara/)
 Facebook: [Yushahu Yussif Azara](https://www.facebook.com/yushahuazara?mibextid=ZbWKwL)
 
