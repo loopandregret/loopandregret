@@ -18,7 +18,7 @@ I am a ```software engineering student``` 🚀 with [ALX Software Engineering - 
 <a href="https://github.com/gitloper-azara/SkySync.git" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
 <a href="https://github.com/gitloper-azara/alx-system_engineering-devops.git" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx"></a>
 <a href="https://github.com/gitloper-azara/SkySync_landing_page.git" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
-<a href="https://github.com/gitloper-azara/SkySync_landing_page.git" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="CSS"></a>
+<a href="https://github.com/gitloper-azara/SkySync_landing_page.git" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"></a>
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming/tree/3a0feefb6c3f3e5b793d3c65a76606d5f2adedce/0x15-javascript-web_jquery" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"></a>
 <a href="https://github.com/gitloper-azara/SkySync_landing_page.git" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
