@@ -32,9 +32,9 @@ I am a ```software engineering student``` 🚀 with [ALX Software Engineering - 
 <a href="https://github.com/gitloper-azara/alx-files_manager.git" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
 
 ### Github Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitloper-azara&layout=compact&theme=light&langs_count=12)](https://github.com/gitloper-azara/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitloper-azara&show_icons=true&theme=light)](https://github.com/gitloper-azara)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gitloper-azara&theme=transparent)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaraverse&layout=compact&theme=light&langs_count=12)](https://github.com/gitloper-azara/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azaraverse&show_icons=true&theme=light)](https://github.com/gitloper-azara)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=azaraverse&theme=transparent)](https://git.io/streak-stats)
 
 ### 📫 Connect with Me
 LinkedIn: [Yushahu Yussif](https://www.linkedin.com/in/yushahuyussifazara/)
