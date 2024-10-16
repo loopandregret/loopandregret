@@ -1,7 +1,7 @@
 ```
 Hello! I am Azara 👋.
 ```
-I am a Graduate ```Software Engineer``` 🚀 from [ALX Software Engineering - Holberton School](https://www.alxafrica.com/).
+I am a graduate ```Software Engineer``` 🚀 from [ALX Software Engineering - Holberton School](https://www.alxafrica.com/).
 
 ### Programming Languages 🔧
 <a href="https://github.com/gitloper-azara/alx-higher_level_programming.git" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
