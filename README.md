@@ -32,8 +32,8 @@ I am a graduate ```Software Engineer``` 🚀 from [ALX Software Engineering - Ho
 <a href="https://github.com/azaraverse/alx-files_manager.git" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></a>
 
 ### Github Stats 📈
-[![Top Langs](https://github-readme-stats-xi-mauve-24.vercel.app/api/top-langs/?username=azaraverse&layout=compact&theme=radical&langs_count=12)](https://github.com/azaraverse/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats-xi-mauve-24.vercel.app/api?username=azaraverse&show_icons=true&theme=radical&rank_icon=github)](https://github.com/azaraverse)
+[![Top Langs](https://github-readme-stats-xi-mauve-24.vercel.app/api/top-langs/?username=loopandregret&layout=compact&theme=radical&langs_count=12)](https://github.com/azaraverse/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-xi-mauve-24.vercel.app/api?username=loopandregret&show_icons=true&theme=radical&rank_icon=github)](https://github.com/azaraverse)
 
 ### 📫 Connect with Me
 LinkedIn: [Yushahu Yussif](https://www.linkedin.com/in/yushahuyussifazara/)
